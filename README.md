@@ -1,4 +1,4 @@
-Hi, this is OvO!
+A THU student majoring in Computer Science. 
 
 <!---
 ovo5471/ovo5471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
